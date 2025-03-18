@@ -24,3 +24,6 @@ This is a **Streamlit-based web application** that helps automate the resume scr
    ```bash
    git clone https://github.com/your-repo/resume-screening-tool.git
    cd resume-screening-tool
+
+## Streamlit Link
+https://resumescreeingranking-mwqykjwssxnuk3dej9znsx.streamlit.app/
